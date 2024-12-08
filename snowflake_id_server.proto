@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package snowflake_id_server;
+option go_package="./snowflake_id_server";
+
+message Request  {
+  string reqID = 1;
+}
+
+message PingResp {
+  string respID = 1;
+  string message = 2;
+  string time = 3;
+}
+
+message GetIDResp {
+  string respID = 1;
+  int64 ID = 2;
+}
+
+service Snowflake_id_server {
+  rpc Ping(Request) returns(PingResp);
+  rpc GetID(Request) returns(GetIDResp);
+}
