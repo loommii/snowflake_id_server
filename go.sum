@@ -85,6 +85,8 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/loommii/flakegen v0.0.0-20241208172723-5b4a50d695de h1:xWda6zx+S+dpmLRYTbgn4zo8hj+VCuOXDeAb+N7nrT0=
 github.com/loommii/flakegen v0.0.0-20241208172723-5b4a50d695de/go.mod h1:5T2os3IPU3fK37QdOIj8qVOCNJXl7IPx9NG+0boGGt0=
+github.com/loommii/flakegen v0.0.0-20251217164416-bdb176086c6f h1:hK4RvjwItM7Qe63682jAVB9Al4cBnjzwdzNvLhH15dU=
+github.com/loommii/flakegen v0.0.0-20251217164416-bdb176086c6f/go.mod h1:5T2os3IPU3fK37QdOIj8qVOCNJXl7IPx9NG+0boGGt0=
 github.com/mailru/easyjson v0.7.7 h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0=
 github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
